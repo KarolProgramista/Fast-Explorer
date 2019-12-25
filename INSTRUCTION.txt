@@ -1,0 +1,76 @@
+
+15:34 29.06.2019
+
+This program is simple directory navigator.
+You can navigate between directories by commands.
+After typing command click OK button to see the result.
+
+
+COMMANDS:
+
+cd - change directory
+                                               
+exemple:
+cd c:\users
+
+-----------------------------------------------------------------
+
+cd .. - back to directory.(Remember space betwen cd and ..)
+
+-----------------------------------------------------------------
+
+mkdir - creat directory
+
+exemple:
+
+mkdir hello
+
+-----------------------------------------------------------------
+
+rmdir - remove directory
+
+exemple:
+
+rmdir hello
+
+----------------------------------------------------------------
+
+type - print content of small(max 28 lines) .txt or script
+
+exemples:
+
+type hello.txt
+type hello.py
+type hello.bat
+
+-------------------------------------------------------------------
+
+start - starting .exe .bat programs or scripts (tested on .py)
+
+exemples:
+start notepad hello.txt
+start hello.exe
+start hello.bat
+start hello.py
+
+---------------------------------------------------------------------
+
+clear - clear the directories label
+
+-----------------------------------------------------------------------
+
+dir - show the content of actual directory after clear
+
+-----------------------------------------------------------------------
+
+next - use this when directory content has more than 28 files to show second page.
+       !!!!worning!!!!
+	this command show only second 28 files. If dirctory has more than 56 files.
+	Some files may be missing.
+
+------------------------------------------------------------------------
+
+HAPPY USING OF MY APPLICATION.
+THANKS FOR DOWNLOADING.
+LINK FOR GIT HUB:
+
